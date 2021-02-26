@@ -17,5 +17,7 @@ Once the plugin is enabled, you will see a new menu item available from your "PL
 
 This should work on HS3 and HS4 as well as Windows and Linux
 
-Please let me know if you have any problems or questions as well as any feature requests by posting here:
+Please let me know if you have any problems or questions as well as any feature requests here on GitHub.
+
+There is also a HomeSeer forum post about this plugin here:
 https://forums.homeseer.com/forum/developer-support/scripts-plug-ins-development-and-libraries/script-plug-in-library/1457331-free-plugin-hs3-hs4-view-manage-homeseer-devices-voice-command-enabled-setting
